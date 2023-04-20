@@ -1,0 +1,11 @@
+*
+{
+    background-origin: padding-box;
+    border-radius: 20px;
+    border-color: blueviolet;
+    color: rgb(179, 50, 14);
+}
+#b1:hover
+{
+    color: #ae1984;
+}

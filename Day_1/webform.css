@@ -1,0 +1,50 @@
+*{
+ background-color:rgb(180, 235, 230);
+
+ 
+}
+#text{
+ margin-bottom: 4%;
+ font-family: 'Times New Roman', Times, serif;
+
+}
+#ops{
+ color: black;
+ font-size:15px;
+}
+#h1 ,#security
+{
+ color:blue;
+ font-size: 20px;
+ font-family: 'Times New Roman', Times, serif;
+}
+
+body
+{
+ border:10px black solid ;
+ padding-left: 10%;
+ margin-right: 25%;
+ margin-left: 25%;
+ margin-top: 5%;
+}
+#submit{
+ font-style: bold;
+ font-size: larger;
+ background-color: rgb(155, 122, 237);
+ margin-bottom: 10px;
+ margin-left: 30%;
+ margin-top: 5%;
+}
+#gender
+{
+ font-size: 20px;
+}
+p::first-line   /* Sudo Element */
+{
+ color: blue;
+}
+
+input:hover    /* Sudo Class */
+{
+ color:rgb(30, 16, 217);
+}
